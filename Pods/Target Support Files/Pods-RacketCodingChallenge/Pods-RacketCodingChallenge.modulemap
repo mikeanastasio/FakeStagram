@@ -1,0 +1,6 @@
+framework module Pods_RacketCodingChallenge {
+  umbrella header "Pods-RacketCodingChallenge-umbrella.h"
+
+  export *
+  module * { export * }
+}
